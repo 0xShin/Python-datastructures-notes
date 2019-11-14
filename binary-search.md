@@ -10,7 +10,7 @@ print(first_half)
 print(second_half)
 
 ```
-##Result:
+## Result:
 ```python
 ['test', 'arf']
 ['bum', 'shen', 'lem']
