@@ -1,4 +1,4 @@
-## Binary search algorithm is a half interval search algorithm that starts on the middle element of your array.
+## Binary search algorithm is a half interval search algorithm or in other words its a algorithm  that starts doing a search  on the middle element of your array.
 
 ```python
 arr= ['test','arf','bum','shen','lem']
